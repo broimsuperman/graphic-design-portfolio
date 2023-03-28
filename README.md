@@ -42,7 +42,7 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 
 ### Logo 3
 
-![Logo 3](logo3.png)
+![Logo 3](logo3fix.png)
 
 ## Some extra work I've done over the last few months
 
