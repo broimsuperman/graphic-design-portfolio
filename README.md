@@ -24,7 +24,7 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 
 ### GFX 2
 
-![GFX 2](gfx2.png)
+![GFX 2](gfx2fix.png)
 
 ### GFX 3
 
@@ -54,6 +54,15 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 
 ### Showcase 3
 ![Showcase 3](extra3.png)
+
+### Showcase 4
+![Showcase 4](extra4.png)
+
+### Showcase 5
+![Showcase 5](extra5.png)
+
+### Showcase 6 (sticker designs in a grid)
+![Showcase 6](extra6.png)
 
 ## About Me
 
