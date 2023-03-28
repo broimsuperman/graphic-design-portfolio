@@ -44,9 +44,16 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 
 ![Logo 3](logo3.png)
 
-### Some extra work I've done over the last few months
+## Some extra work I've done over the last few months
 
+### Showcase 1
 ![Showcase 1](extra1.png)
+
+### Showcase 2
+![Showcase 2](extra2.png)
+
+### Showcase 3
+![Showcase 3](extra3.png)
 
 ## About Me
 
