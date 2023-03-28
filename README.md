@@ -28,7 +28,7 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 
 ### GFX 3
 
-![GFX 3](gfx.png)
+![GFX 3](gfx3.png)
 
 ## Logo Designs
 
