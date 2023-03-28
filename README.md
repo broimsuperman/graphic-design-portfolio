@@ -1,6 +1,6 @@
-# My GFX/Banner Design Portfolio
+# My GFX/Banner and Logo Design Portfolio
 
-Welcome to my portfolio showcasing my GFX/banner design skills! Below you'll find a selection of my favorite designs.
+Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below you'll find a selection of my favorite designs.
 
 ## Banner Designs
 
@@ -30,8 +30,22 @@ Welcome to my portfolio showcasing my GFX/banner design skills! Below you'll fin
 
 ![GFX 3](gfx3.png)
 
+## Logo Designs
+
+### Logo 1
+
+![Logo 1](logo1.png)
+
+### Logo 2
+
+![Logo 2](logo2.png)
+
+### Logo 3
+
+![Logo 3](logo3.png)
+
 ## About Me
 
-I am a skilled graphic designer with experience in creating beautiful and eye-catching banners and GFX designs. I have a passion for creating visually stunning designs that capture the attention of viewers and leave a lasting impression. My work is always high quality, and I take pride in delivering projects on time and within budget.
+I am a skilled graphic designer with experience in creating beautiful and eye-catching banners, logos, and GFX designs. I have a passion for creating visually stunning designs that capture the attention of viewers and leave a lasting impression. My work is always high quality, and I take pride in delivering projects on time and within budget.
 
 If you're interested in working with me or have any questions, please don't hesitate to reach out. I look forward to hearing from you!
