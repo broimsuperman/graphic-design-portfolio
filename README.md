@@ -34,7 +34,7 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 
 ### Logo 1
 
-![Logo 1](logo1.png)
+![Logo 1](logo1fix.png)
 
 ### Logo 2
 
