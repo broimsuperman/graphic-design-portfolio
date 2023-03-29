@@ -53,7 +53,7 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 ![Showcase 2](extra2.png)
 
 ### Showcase 3
-![Showcase 3](extra3.png)
+![Showcase 3](extra3fix.png)
 
 ### Showcase 4
 ![Showcase 4](extra4.png)
