@@ -70,9 +70,6 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 ### Showcase 8
 ![Showcase 8](extra8.png)
 
-### Showcase 9
-![Showcase 9](extra9.png)
-
 ## About Me
 
 I am a skilled graphic designer with experience in creating beautiful and eye-catching banners, logos, and GFX designs. I have a passion for creating visually stunning designs that capture the attention of viewers and leave a lasting impression. My work is always high quality, and I take pride in delivering projects on time and within budget.
