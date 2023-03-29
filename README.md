@@ -47,7 +47,7 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 ## Some extra work I've done over the last few months
 
 ### Showcase 1
-![Showcase 1](extra1.png)
+![Showcase 1](extra1fix.png)
 
 ### Showcase 2
 ![Showcase 2](extra2.png)
@@ -63,6 +63,15 @@ Welcome to my portfolio showcasing my GFX/banner and logo design skills! Below y
 
 ### Showcase 6 (sticker designs in a grid)
 ![Showcase 6](extra6.png)
+
+### Showcase 7 
+![Showcase 7](extra7.png)
+
+### Showcase 8
+![Showcase 8](extra8.png)
+
+### Showcase 9
+![Showcase 9](extra9.png)
 
 ## About Me
 
